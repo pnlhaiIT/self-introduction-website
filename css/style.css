@@ -1,0 +1,19 @@
+#khung {
+    background-image: url(../img/hinhnen.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: repeat;
+}
+
+header h1 {
+    letter-spacing: 1px;
+}
+
+header {
+    border-bottom: 1px solid wheat;
+    padding-bottom: 5px;
+}
+
+#gioithieu li {
+    margin-bottom: 10px;
+}
