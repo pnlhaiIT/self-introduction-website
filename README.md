@@ -1,2 +1,2 @@
 # self-introduction-website
-this is a website introduce myself
+this is a simple website introduce myself
