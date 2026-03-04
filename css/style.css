@@ -3,6 +3,7 @@
     background-position: center;
     background-size: contain;
     background-repeat: repeat;
+    min-height: 100vh;
 }
 
 header h1 {
@@ -16,4 +17,9 @@ header {
 
 #gioithieu li {
     margin-bottom: 10px;
+}
+
+html,
+body {
+    height: 100%;
 }
